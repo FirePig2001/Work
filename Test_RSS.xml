@@ -4,11 +4,31 @@
 <channel>
   <item>
     <title>Message 1</title>
-    <description>Nap time begins at:</description>
+    <description>15 Minute Nap Times Begin at</description>
   </item>
   <item>
     <title>Message 2</title>
-    <description>10:00 am</description>
+    <description>9:00 am</description>
+  </item>
+  <item>
+    <title>Message 3</title>
+    <description>10:30 am</description>
+  </item>
+  <item>
+    <title>Message 4</title>
+    <description>11:45 am</description>
+  </item>
+  <item>
+    <title>Message 5</title>
+    <description>1:00 pm</description>
+  </item>
+  <item>
+    <title>Message 6</title>
+    <description>2:30 pm</description>
+  </item>
+  <item>
+    <title>Message 7</title>
+    <description>3:30 pm</description>
   </item>
 </channel>
 
